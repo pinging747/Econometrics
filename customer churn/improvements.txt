@@ -1,0 +1,6 @@
+Model performance could be improved in a number of ways.
+
+1. Multiple data multiple times using the same technique and taking the mean
+2. Intuitive tuning of model hyperparameters 
+3. Normalization of data
+4. Running the model on multiple random samples and then finding the average
